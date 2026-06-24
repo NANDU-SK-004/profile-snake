@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: Nandu S Kumar
+          github_user_name: NANDU-SK-004
           outputs: |
             dist/github-contribution-grid-snake-dark.svg
 
